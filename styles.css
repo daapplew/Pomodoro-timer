@@ -1,0 +1,18 @@
+.container {
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+
+.timers {
+    display: flex;
+    border: 2px solid blue;
+
+}
+
+#studyTimer{
+    border: 2px solid yellow;
+}
+
+#breakTimer {
+    border: 2px solid red;
+}
